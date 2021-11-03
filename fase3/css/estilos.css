@@ -1,0 +1,15 @@
+header{background-color:#293B5F }
+header{color:white;}
+header{text-align: center;}
+nav{background-color:#47597E;}
+nav{color: black;}
+section{background-color:#DBE6FE;}
+section{color: black; grid-column: 1/4;}
+aside{background-color: #B2AB8C;}
+aside{color: black; grid-column: 4/5;}
+footer{background-color:#47597E;}
+footer{color: black;}
+footer{text-align: center;}
+main{display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
